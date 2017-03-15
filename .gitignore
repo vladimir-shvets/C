@@ -1,0 +1,2 @@
+git remote add origin https://github.com/vladimir-shvets/C.git
+git push -u origin master
